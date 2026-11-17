@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="99.999" viewBox="0 0 100 99.999">
+  <g id="Group_1362882" data-name="Group 1362882" transform="translate(-803.781 -1968)">
+    <g id="Group_1356702" data-name="Group 1356702">
+      <g id="Group_1356691" data-name="Group 1356691">
+        <g id="Group_1356675" data-name="Group 1356675" transform="translate(-1 1)">
+          <g id="Group_1204437" data-name="Group 1204437" transform="translate(804.781 1967)">
+            <g id="Group_1204285" data-name="Group 1204285">
+              <g id="Group_1204180" data-name="Group 1204180">
+                <g id="Group_1204143" data-name="Group 1204143">
+                  <g id="Group_1188789" data-name="Group 1188789" transform="translate(0 0)">
+                    <path id="Path_1243039" data-name="Path 1243039" d="M42.05,0h0a42.05,42.05,0,1,1,0,84.1h0a42.05,42.05,0,1,1,0-84.1Z" transform="translate(7.951 7.949)" fill="#b4b5dc"/>
+                    <rect id="Rectangle_400907" data-name="Rectangle 400907" width="90.438" height="90.437" rx="45.218" transform="translate(4.782 4.781)" fill="none"/>
+                    <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+                      <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                      <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1364209" data-name="Group 1364209" transform="translate(830.268 1994.44)">
+      <path id="Path_1505926" data-name="Path 1505926" d="M158.279,301.7a22.962,22.962,0,1,1-22.962,22.962A22.97,22.97,0,0,1,158.279,301.7m18.369,22.962a18.369,18.369,0,1,0-18.369,18.369,18.423,18.423,0,0,0,18.369-18.369" transform="translate(-134.766 -301.153)" fill="#57606f"/>
+      <path id="Path_1505927" data-name="Path 1505927" d="M165.463,316.7a6.253,6.253,0,0,1,6.246,6.246c0,6.246-6.246,9.735-12.4,15.981-6.338-6.247-12.492-9.736-12.492-15.981a6.253,6.253,0,0,1,6.247-6.246c3.122,0,4.684,1.562,6.246,4.685,1.469-3.123,3.031-4.685,6.154-4.685" transform="translate(-135.703 -302.376)" fill="#ff5987"/>
+      <path id="Path_1505928" data-name="Path 1505928" d="M159.159,339.434a.477.477,0,0,1-.367-.185c-1.47-1.469-3.03-2.846-4.5-4.133-4.592-4.04-8.174-7.255-8.174-12.215a6.781,6.781,0,0,1,6.8-6.8c3.123,0,4.776,1.47,6.246,4.042,1.378-2.481,3.032-4.042,6.247-4.042a6.782,6.782,0,0,1,6.8,6.8c0,4.96-3.581,8.174-8.174,12.215-1.47,1.287-2.94,2.664-4.5,4.133a.474.474,0,0,1-.367.185M152.914,317.3a5.626,5.626,0,0,0-5.6,5.6c0,4.408,3.4,7.531,7.715,11.389,1.286,1.194,2.664,2.388,4.133,3.766,1.378-1.378,2.755-2.572,4.133-3.766,4.317-3.858,7.715-6.981,7.715-11.389a5.624,5.624,0,0,0-5.6-5.6c-2.664,0-4.042,1.1-5.7,4.316a.555.555,0,0,1-.551.276.657.657,0,0,1-.551-.276c-1.561-3.306-3.031-4.316-5.695-4.316" transform="translate(-135.646 -302.327)"/>
+      <path id="Path_1505929" data-name="Path 1505929" d="M158.23,348.223a23.559,23.559,0,1,1,23.514-23.6,23.559,23.559,0,0,1-23.514,23.6m0-45.924a22.364,22.364,0,1,0,22.411,22.319A22.44,22.44,0,0,0,158.23,302.3" transform="translate(-134.717 -301.104)"/>
+      <path id="Path_1505930" data-name="Path 1505930" d="M158.638,344.038a18.967,18.967,0,1,1,18.921-19.012,18.954,18.954,0,0,1-18.921,19.012m0-36.739a17.772,17.772,0,1,0,17.818,17.727A17.834,17.834,0,0,0,158.638,307.3" transform="translate(-135.125 -301.512)"/>
+    </g>
+  </g>
+</svg>

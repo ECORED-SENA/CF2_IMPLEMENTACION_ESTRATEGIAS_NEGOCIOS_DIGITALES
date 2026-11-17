@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="99.998" viewBox="0 0 100 99.998">
+  <g id="Group_1364123" data-name="Group 1364123" transform="translate(-803.781 -1968)">
+    <g id="Group_1356702" data-name="Group 1356702">
+      <g id="Group_1356691" data-name="Group 1356691">
+        <g id="Group_1356675" data-name="Group 1356675" transform="translate(-1 1)">
+          <g id="Group_1204437" data-name="Group 1204437" transform="translate(804.781 1967)">
+            <g id="Group_1204285" data-name="Group 1204285">
+              <g id="Group_1204180" data-name="Group 1204180">
+                <g id="Group_1204143" data-name="Group 1204143">
+                  <g id="Group_1188789" data-name="Group 1188789" transform="translate(0 0)">
+                    <path id="Path_1243039" data-name="Path 1243039" d="M42.05,0h0a42.05,42.05,0,1,1,0,84.1h0a42.05,42.05,0,1,1,0-84.1Z" transform="translate(7.951 7.949)" fill="#b4b5dc"/>
+                    <rect id="Rectangle_400907" data-name="Rectangle 400907" width="90.438" height="90.437" rx="45.218" transform="translate(4.782 4.781)" fill="none"/>
+                    <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+                      <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                      <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1364521" data-name="Group 1364521" transform="translate(826.192 1990.411)">
+      <path id="Path_1509180" data-name="Path 1509180" d="M310.495,15.641A26.44,26.44,0,1,1,284.1,42.034a26.494,26.494,0,0,1,26.393-26.393m20.692,26.393a20.686,20.686,0,1,0-6.62,15.174,20.723,20.723,0,0,0,6.62-15.174" transform="translate(-282.905 -14.445)" fill="#f14742"/>
+      <path id="Path_1509181" data-name="Path 1509181" d="M310.39,69.518a27.571,27.571,0,0,1-19.5-47.084,27.572,27.572,0,1,1,38.992,38.992,27.337,27.337,0,0,1-19.5,8.092m0-52.878a25.289,25.289,0,1,0,25.29,25.289A25.276,25.276,0,0,0,310.39,16.64" transform="translate(-282.801 -14.341)"/>
+      <path id="Path_1509182" data-name="Path 1509182" d="M310.888,64.316A21.85,21.85,0,0,1,290.84,33.692a22.425,22.425,0,0,1,4.967-7.081,21.888,21.888,0,0,1,35.13,24.646,22.727,22.727,0,0,1-5.058,7.082,21.954,21.954,0,0,1-14.991,5.978m0-41.384A19.586,19.586,0,1,0,330.477,42.52a19.529,19.529,0,0,0-19.589-19.588" transform="translate(-283.299 -14.839)"/>
+      <path id="Path_1509183" data-name="Path 1509183" d="M325.291,59.025a1,1,0,0,1-.827-.366L296.876,28.771a1.172,1.172,0,1,1,1.746-1.564l27.589,29.888a1.17,1.17,0,0,1-.092,1.655,1.477,1.477,0,0,1-.828.275" transform="translate(-283.908 -15.343)"/>
+      <text id="A" transform="translate(17.025 37.028)" font-size="34" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
