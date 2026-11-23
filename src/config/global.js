@@ -208,15 +208,131 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acción digital',
+      significado: 'actividad concreta que utiliza recursos tecnológicos para materializar una táctica.',
     },
+    {
+      termino: 'Adaptación del mensaje',
+      significado: 'ajuste del mensaje al medio digital conservando su propósito e información esencial.',
+    },
+    {
+      termino: 'Audiencia',
+      significado: 'personas o grupos a quienes se dirigen las acciones y mensajes de una organización.',
+    },
+    {
+      termino: 'Coherencia comunicativa',
+      significado: 'correspondencia entre mensajes, información, identidad organizacional y experiencia ofrecida en los distintos medios.',
+    },
+    {
+      termino: 'Comunicación comercial',
+      significado: 'mensajes sobre promoción, presentación y comercialización de productos o servicios.',
+    },
+    {
+      termino: 'Comunicación digital',
+      significado: 'intercambio de información mediante tecnologías y medios digitales entre organizaciones y usuarios.',
+    },
+    {
+      termino: 'Conversión',
+      significado: 'realización de una acción relevante para el negocio, como registrarse, solicitar información o comprar.',
+    },
+    {
+      termino: 'Estrategia digital',
+      significado: 'orientación general que articula objetivos, públicos, medios y recursos para alcanzar resultados.',
+    },
+    {
+      termino: 'Fidelización',
+      significado: 'proceso orientado a fortalecer la relación con clientes mediante atención, acompañamiento y beneficios pertinentes.',
+    },
+    {
+      termino: 'Identidad verbal',
+      significado: 'características de expresión organizacional, como tono, estilo, vocabulario y nivel de formalidad.',
+    },
+    {
+      termino: 'Identidad visual',
+      significado: 'elementos gráficos que permiten reconocer una organización, como colores, tipografías, logotipos e imágenes.',
+    },
+    {
+      termino: 'Incidencia',
+      significado: 'situación no prevista que afecta la ejecución de una actividad y requiere atención.',
+    },
+    {
+      termino: 'Integración de acciones digitales',
+      significado: 'coordinación de actividades y medios para contribuir a una finalidad común.',
+    },
+    {
+      termino: 'Interacción',
+      significado: 'acción o intercambio entre organizaciones y usuarios mediante consultas, conversaciones o participación digital.',
+    },
+    {
+      termino: 'Llamado a la acción',
+      significado: 'indicación que orienta al público hacia una respuesta concreta y pertinente.',
+    },
+    {
+      termino: 'Mercadeo electrónico',
+      significado: 'aplicación de principios y actividades de mercadeo mediante tecnologías y medios digitales.',
+    },
+    {
+      termino: 'Objetivo de campaña',
+      significado: 'resultado esperado que orienta la estrategia, las tácticas y las acciones digitales.',
+    },
+    {
+      termino: 'Planificación de acciones digitales',
+      significado: 'organización de actividades, recursos, responsables, tiempos y lineamientos para ejecutar tácticas.',
+    },
+    {
+      termino: 'Priorización de tácticas',
+      significado: 'ordenamiento de tácticas según objetivos, pertinencia, viabilidad, impacto esperado y esfuerzo requerido.',
+    },
+    {
+      termino: 'Propuesta de valor',
+      significado: 'beneficios y diferenciadores de una oferta que responde a necesidades del público.',
+    },
+    {
+      termino: 'Punto de contacto',
+      significado: 'medio donde una persona obtiene información o interactúa con una organización.',
+    },
+    {
+      termino: 'Seguimiento operativo',
+      significado: 'revisión del avance y cumplimiento de actividades para identificar incidencias y realizar ajustes.',
+    },
+    {
+      termino: 'Táctica digital',
+      significado: 'forma específica de actuación que desarrolla una estrategia y orienta acciones concretas.',
+    },
+    {
+      termino: 'Viabilidad',
+      significado: 'posibilidad de ejecutar una táctica o acción según los recursos y capacidades disponibles.',
+    },
+    {
+      termino: 'Visibilidad',
+      significado: 'posibilidad de que el público encuentre o reconozca una organización, producto o servicio.',
+    }
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+    referencia: 'Asana. (s. f.). Plantilla gratuita de matriz de priorización para tareas.',
+    link: 'https://asana.com/es/templates/prioritization-matrix',
     },
+    {
+      referencia: 'Camacho, K. (2026, 30 de marzo). Qué son las audiencias en marketing + ejemplos reales. DesignPlus.',
+      link: 'https://designplus.co/blog/marketing-digital/que-son-audiencias-marketing/',
+    },
+    {
+      referencia: 'Gomez Albrecht, M., Green, M., & Hoffman, L. (2023). Principles of marketing. OpenStax.',
+      link: 'https://openstax.org/books/principles-marketing/pages/1-unit-introduction',
+    },
+    {
+      referencia: 'PR Smith Marketing. (s. f.). SOSTAC® 1-day masterclass – AI enabled.',
+      link: 'https://prsmith.org/sostac/',
+    },
+    {
+      referencia: 'Superintendencia de Industria y Comercio. (s. f.). Información engañosa.',
+      link: 'https://sedeelectronica.sic.gov.co/temas/proteccion-al-consumidor/derechos-y-deberes/Informacion-enganosa',
+    },
+    {
+      referencia: 'Theriault, A. (2024, 10 de octubre). What is audience development? Lotame.',
+      link: 'https://www.lotame.com/resources/what-is-audience-development/',
+    }
   ],
   creditos: [
     {
@@ -224,13 +340,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
@@ -238,9 +350,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -248,20 +367,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -271,13 +420,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

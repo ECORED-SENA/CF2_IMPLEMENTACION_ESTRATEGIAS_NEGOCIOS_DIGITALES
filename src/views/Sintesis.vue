@@ -2,11 +2,11 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+      p La síntesis integra los conceptos principales desarrollados en el componente formativo:
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+            img(src="@/assets/curso/sintesis.svg", alt="La planeación y ejecución de estrategias digitales articulan el mercadeo, las tácticas, la organización de acciones y la comunicación digital. La estrategia de mercadeo relaciona los objetivos con los fundamentos del e-marketing y establece una estructura que integra las acciones digitales. Las tácticas concretan la estrategia mediante formas de actuación que se seleccionan y priorizan según los objetivos de campaña. La planificación organiza las actividades, los recursos, los responsables y los tiempos, mientras que la ejecución requiere guías, lineamientos y seguimiento operativo. La comunicación define el propósito y enfoque de los mensajes, mantiene la identidad y coherencia comunicativa y adapta el contenido al medio digital, conforme a los lineamientos de comunicación comercial.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
