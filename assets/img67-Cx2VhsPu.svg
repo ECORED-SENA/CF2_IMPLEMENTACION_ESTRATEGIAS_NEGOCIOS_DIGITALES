@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="99.999" viewBox="0 0 100 99.999">
+  <g id="Group_1363677" data-name="Group 1363677" transform="translate(-803.781 -1968)">
+    <g id="Group_1356702" data-name="Group 1356702">
+      <g id="Group_1356691" data-name="Group 1356691">
+        <g id="Group_1356675" data-name="Group 1356675" transform="translate(-1 1)">
+          <g id="Group_1204437" data-name="Group 1204437" transform="translate(804.781 1967)">
+            <g id="Group_1204285" data-name="Group 1204285">
+              <g id="Group_1204180" data-name="Group 1204180">
+                <g id="Group_1204143" data-name="Group 1204143">
+                  <g id="Group_1188789" data-name="Group 1188789" transform="translate(0 0)">
+                    <path id="Path_1243039" data-name="Path 1243039" d="M42.05,0h0a42.05,42.05,0,1,1,0,84.1h0a42.05,42.05,0,1,1,0-84.1Z" transform="translate(7.951 7.949)" fill="#b4b5dc"/>
+                    <rect id="Rectangle_400907" data-name="Rectangle 400907" width="90.438" height="90.437" rx="45.218" transform="translate(4.782 4.781)" fill="none"/>
+                    <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+                      <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                      <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                        <rect width="100" height="99.998" rx="49.999" stroke="none"/>
+                        <rect x="1" y="1" width="98" height="97.998" rx="48.999" fill="none"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1364431" data-name="Group 1364431" transform="translate(825.635 2001.214)">
+      <path id="Path_1508194" data-name="Path 1508194" d="M575.362,19.538a31.347,31.347,0,0,1,27.484,16.2,31.586,31.586,0,0,1-27.484,16.2,31.349,31.349,0,0,1-27.484-16.2,31.349,31.349,0,0,1,27.484-16.2" transform="translate(-547.217 -18.949)" fill="#7d89aa"/>
+      <path id="Path_1508195" data-name="Path 1508195" d="M575.648,23.538a12.27,12.27,0,1,1-12.27,12.27,12.274,12.274,0,0,1,12.27-12.27" transform="translate(-547.503 -19.023)" fill="#57606f"/>
+      <path id="Path_1508196" data-name="Path 1508196" d="M575.729,27.938a7.951,7.951,0,1,1-7.951,7.951,7.919,7.919,0,0,1,7.951-7.951" transform="translate(-547.584 -19.104)" fill="#d0dce7"/>
+      <path id="Path_1508197" data-name="Path 1508197" d="M581.365,31.681a3.043,3.043,0,1,1-3.044-3.043,3,3,0,0,1,3.044,3.043" transform="translate(-547.722 -19.117)" fill="#a0b5c5"/>
+      <path id="Path_1508198" data-name="Path 1508198" d="M575.637,48.655A12.859,12.859,0,1,1,588.5,35.8a12.9,12.9,0,0,1-12.86,12.859m0-24.539A11.681,11.681,0,1,0,587.318,35.8a11.708,11.708,0,0,0-11.681-11.681" transform="translate(-547.492 -19.012)"/>
+      <path id="Path_1508199" data-name="Path 1508199" d="M575.716,44.514a8.638,8.638,0,1,1,8.639-8.638,8.651,8.651,0,0,1-8.639,8.638m0-16a7.362,7.362,0,1,0,7.362,7.362,7.415,7.415,0,0,0-7.362-7.362" transform="translate(-547.571 -19.091)"/>
+      <path id="Path_1508200" data-name="Path 1508200" d="M578.308,35.3a3.73,3.73,0,1,1,3.731-3.73,3.862,3.862,0,0,1-3.731,3.73m0-6.086a2.454,2.454,0,1,0,2.454,2.454,2.431,2.431,0,0,0-2.454-2.454" transform="translate(-547.709 -19.102)"/>
+      <path id="Path_1508201" data-name="Path 1508201" d="M575.351,52.508a32.275,32.275,0,0,1-28.073-16.491.632.632,0,0,1,0-.589,32.141,32.141,0,0,1,56.146,0,.626.626,0,0,1,0,.589,32.074,32.074,0,0,1-28.073,16.491m-26.8-16.785a30.809,30.809,0,0,0,53.6,0,30.809,30.809,0,0,0-53.6,0" transform="translate(-547.205 -18.938)"/>
+    </g>
+  </g>
+</svg>
