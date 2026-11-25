@@ -827,7 +827,7 @@
               figure
                 img(src='@/assets/curso/temas/t1/img34.svg', alt='' style="width: 70px").m-auto
             .col-xl
-              p.mb-0 La falta de coherencia entre medios puede generar dificultades para identificar la información correcta:
+              p.mb-0 La falta de coherencia entre medios puede generar dificultades para identificar la información correcta.
           .caja-1.color-3(data-aos="fade-right")
             p.mb-0 #[b Ejemplo aplicado:] si un producto aparece con características o condiciones diferentes en varios medios, el usuario puede tener dificultades para determinar cuál información es correcta. Por ello, las acciones deben mantener consistencia en los aspectos que comparten.
         .col-xl-auto.col-md-9(data-aos="fade-left")

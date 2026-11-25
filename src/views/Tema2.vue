@@ -239,7 +239,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img23.png')})` }")
         .bloque-texto-g__texto.p-4
-          p Diferenciar la estrategia, la táctica y la acción permite organizar las decisiones digitales de manera jerárquica y comprender la función de cada nivel. Mientras la estrategia define la orientación general, la táctica establece un enfoque específico y la acción concreta la actividad que debe ejecutarse para contribuir al objetivo.
+          p Diferenciar la estrategia, la táctica y la acción permite organizar las decisiones digitales de manera jerárquica y comprender la función de cada nivel. Mientras la estrategia define la orientación general, la táctica establece un enfoque específico y la acción concreta, la actividad que debe ejecutarse para contribuir al objetivo.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img3.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Relación entre estrategia, táctica y acción
